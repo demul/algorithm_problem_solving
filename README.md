@@ -1,4 +1,3 @@
-# algorithm_problem_solving
 코딩테스트 준비
 
 # 다시 풀어볼 문제
